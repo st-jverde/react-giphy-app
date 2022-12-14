@@ -1,4 +1,6 @@
-# react-boilerplate
+# React Assignment - Giphy App - from react-boilerplate
+
+## Boilerplate information:
 
 Simple react starter with the following config:
 
